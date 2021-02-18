@@ -1,0 +1,35 @@
+/*Haut de Page*/
+
+html,body {
+    margin: 0%;
+    padding: 0%;
+} 
+#header {
+    background-color: #C2C3BA;
+}
+.logo{
+    width: 15%;
+    padding-left: 2%;
+    padding-top: -5%;
+}
+#menu{
+    background-color: #DBDCD7;
+    display: flex;
+    justify-content: center ;
+    font-family: Arial, Helvetica, sans-serif;
+    font: bold;
+}
+#menu ul{
+    display: flex;
+    padding:0;
+    margin:0;
+    list-style-type:none;
+}
+#menu ul li{
+    margin:30px;
+    float:center; 
+}
+#menu ul li a{
+    color: #7D7C7C ;
+    text-decoration: none;
+}
