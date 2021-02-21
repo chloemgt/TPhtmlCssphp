@@ -63,14 +63,42 @@ h2{
 #footer{
     background-color: #DBDCD7;
 }
+.footerinterieur{
+    background-color: #DBDCD7;
+    text-align: center;
+    display: flex;
+    padding: 30px;
+    margin: 30px;
+}
+
+
 .contact{
-    margin-right: 55%;
+    text-align: center;
     color: #7D7C7C ;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+} 
+
+
+.email{
+    text-align: center;
+    color: #7D7C7C ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+.phone{
+    text-align: center;
+    color: #7D7C7C ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
 }
 .follow{
-    margin-left: 55%;
+    text-align: center;
     color: #7D7C7C ;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+} 
+.facebook{
+    width: 3%;
 }
+.instagram{
+    width: 3%;
+}
+
 
