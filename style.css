@@ -33,3 +33,44 @@ html,body {
     color: #7D7C7C ;
     text-decoration: none;
 }
+
+.fondinterieur{
+    background-color: #DBDCD7;
+    display: flex;
+    padding: 30px;
+    margin: 30px;
+}
+.jardins{
+    width: 90%;
+}
+.gites{
+    width: 117%;
+}
+.Restaurants{
+    width: 80%;
+    margin-left: 20%;
+}
+h3{
+    text-align: center;
+    color: #7D7C7C ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    text-align: center;
+    color: #7D7C7C ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+#footer{
+    background-color: #DBDCD7;
+}
+.contact{
+    margin-right: 55%;
+    color: #7D7C7C ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.follow{
+    margin-left: 55%;
+    color: #7D7C7C ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
